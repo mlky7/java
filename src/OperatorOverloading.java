@@ -1,4 +1,4 @@
-public class Main {
+public class OperatorOverloading{
     public static void main(String[] args) {
         calculateScore("Tin", 5000);
         int newScore = calculateScore("Tin", 5000, 5); // Declare newScore

@@ -1,4 +1,4 @@
-public class Main {
+public class Challenge {
 
     // Converts inches to centimeters
     public static double convertInchToCM(double inches) {

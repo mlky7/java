@@ -1,7 +1,7 @@
 import java.util.Arrays;
 import java.util.Random;
 
-public class Main {
+public class Challenge3{
     public static void main(String[] args) {
 
         int[] nums = getRandomArray(5); // Corrected array assignment

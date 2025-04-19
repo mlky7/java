@@ -1,4 +1,4 @@
-public class Main {
+public class Challenge2{
 
     public static String getDurationString(int seconds) {
         return getDurationString(seconds / 60, seconds % 60);
